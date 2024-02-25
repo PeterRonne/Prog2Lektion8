@@ -20,4 +20,6 @@ public class Seat {
     public boolean isReserved() {
         return reserved;
     }
+
+
 }
